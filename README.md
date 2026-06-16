@@ -1,9 +1,9 @@
-# SOC-Automation-Project
+# End-to-End Privileged Access Management Design and Deployment Using CyberArk
 ![Cloud Honeynet / SOC](https://i.imgur.com/SKeH07d.png)
 
 ## Introduction
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen my understanding of network security, attack patterns, and defensive strategies.
-
+I'm an IT professional building hands-on skills in Privileged Access Management using CyberArk. In this project, I set up and configured a CyberArk environment from scratch — creating Safes, onboarding privileged accounts, automating password rotation, recording and monitoring sessions, and generating compliance reports.
+Every task in this project mirrors what PAM administrators do on the job every day, giving me real, practical experience that employers can see and verify.
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
