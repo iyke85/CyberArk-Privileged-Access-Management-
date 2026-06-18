@@ -1,5 +1,5 @@
 # End-to-End Privileged Access Management Design and Deployment Using CyberArk
-![Cloud Honeynet / SOC](https://i.imgur.com/6kIoSh3.png)
+![Cloud Honeynet / SOC](https://i.imgur.com/NVGXgKA.png)
 
 ## Introduction
 In this project, I set up and configured a CyberArk environment from scratch — creating Safes, onboarding privileged accounts, automating password rotation, recording and monitoring sessions, and generating compliance reports.
