@@ -2,7 +2,7 @@
 ![Cloud Honeynet / SOC](https://i.imgur.com/6kIoSh3.png)
 
 ## Introduction
-I'm an IT professional building hands-on skills in Privileged Access Management using CyberArk. In this project, I set up and configured a CyberArk environment from scratch — creating Safes, onboarding privileged accounts, automating password rotation, recording and monitoring sessions, and generating compliance reports.
+In this project, I set up and configured a CyberArk environment from scratch — creating Safes, onboarding privileged accounts, automating password rotation, recording and monitoring sessions, and generating compliance reports.
 Every task in this project mirrors what PAM administrators do on the job every day, giving me real, practical experience that employers can see and verify.
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
