@@ -7,16 +7,16 @@ Every task in this project mirrors what PAM administrators do on the job every d
 ![Architecture Diagram](https://www.image2url.com/r2/default/images/1782740867945-66741f18-b870-43c4-bdb1-86a5f03b6a3a.png)
 ## Active Directory Integration and Role-Based Access Control in CyberArk
 ![Architecture Diagram](https://www.image2url.com/r2/default/images/1783411821504-1d4150e5-20ba-446b-99bd-ae85667a3aee.png)
-In this lab, I built a complete access control workflow in CyberArk using Active Directory. I created a Safe called EndUser Engineering to store and protect the privileged account, onboarded a Windows domain account into a Windows Domain platform in CyberArk, created an AD security group also called EndUser Engineering, and assigned that group as a Safe member with the appropriate permissions. This mirrors exactly how enterprises manage privileged access at scale — using Safes to organise accounts and AD groups to control who can access them.
+In this lab, I built a complete access control workflow in CyberArk that integrates with Active Directory. I created a Safe called EndUser Engineering to store and protect the privileged account, onboarded a Windows domain account into a Windows Domain platform in CyberArk, created an AD security group also called EndUser Engineering, and assigned that group as a Safe member with the appropriate permissions. This mirrors exactly how enterprises manage privileged access at scale — using Safes to organise accounts and AD groups to control who can access them.
+![Architecture Diagram](https://www.image2url.com/r2/default/images/1783416278041-4a80a3a1-f17d-4fd3-8084-6372274a4390.png)
+![Architecture Diagram](https://www.image2url.com/r2/default/images/1783416565730-21f9d832-3b82-41a8-a1a3-2d00e5a17cd3.png)
+![Architecture Diagram](https://www.image2url.com/r2/default/images/1783416726419-a59413b3-fa2a-466c-b43b-338b64477463.png)
+![Architecture Diagram](https://www.image2url.com/r2/default/images/1783416975047-ccbb1ca4-39f0-4202-ad6d-7f97bb5ac9c5.png)
+# Account Onboarding
 ![Architecture Diagram](https://www.image2url.com/r2/default/images/1783413890588-f8b1acef-dde3-4f01-9a62-6432eb83f80c.png)
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
+![Architecture Diagram](https://www.image2url.com/r2/default/images/1783417427342-53f6ea61-2db4-46d4-b8f3-fffbd0fbefa2.png)
+![Architecture Diagram](https://www.image2url.com/r2/default/images/1783417970674-2bd33410-883e-4f7f-b62f-dc1143e12b64.png)
+![Architecture Diagram](https://www.image2url.com/r2/default/images/1783418146752-c3df56c7-293a-4542-a269-65187e829810.png)
 ![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
 ![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
 ![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
