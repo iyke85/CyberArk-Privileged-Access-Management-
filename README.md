@@ -5,8 +5,31 @@
 In this project, I set up and configured a CyberArk environment from scratch — creating Safes, onboarding privileged accounts, automating password rotation, recording and monitoring sessions, and generating compliance reports.
 Every task in this project mirrors what PAM administrators do on the job every day, giving me real, practical experience that employers can see and verify.
 ![Architecture Diagram](https://www.image2url.com/r2/default/images/1782740867945-66741f18-b870-43c4-bdb1-86a5f03b6a3a.png)
-## Architecture Before Hardening / Security Controls
+## Active Directory Integration and Role-Based Access Control in CyberArk
 ![Architecture Diagram](https://www.image2url.com/r2/default/images/1783411821504-1d4150e5-20ba-446b-99bd-ae85667a3aee.png)
+In this lab, I built a complete access control workflow in CyberArk using Active Directory. I created a Safe called EndUser Engineering to store and protect the privileged account, onboarded a Windows domain account into a Windows Domain platform in CyberArk, created an AD security group also called EndUser Engineering, and assigned that group as a Safe member with the appropriate permissions. This mirrors exactly how enterprises manage privileged access at scale — using Safes to organise accounts and AD groups to control who can access them.
+
+# Skills learned
+- Safe creation and configuration in CyberArk
+- Active Directory security group creation and management
+- Privileged account onboarding into a Windows Domain platform
+- Safe member configuration and permission assignment
+- Role-based access control (RBAC) using AD groups
+ # Business impact
+In a real company, this setup means privileged accounts are stored securely inside a Safe, and only members of the right AD group can access them. Access can be granted or revoked instantly by updating the group — no need to touch CyberArk for each user individually. This reduces the risk of unauthorised access, supports audit compliance, and saves IT teams significant time managing access at scale.
+
+# Tools and technologies
+
+- CyberArk PVWA
+- CyberArk Safe
+- Active Directory
+- Windows Domain Platform
+- Safe Member Permissions
+- RBAC
+
+
+
+
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
