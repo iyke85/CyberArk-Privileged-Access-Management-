@@ -5,8 +5,11 @@
 In this project, I set up and configured a CyberArk environment from scratch — creating Safes, onboarding privileged accounts, automating password rotation, recording and monitoring sessions, and generating compliance reports.
 Every task in this project mirrors what PAM administrators do on the job every day, giving me real, practical experience that employers can see and verify.
 ![Architecture Diagram](https://www.image2url.com/r2/default/images/1782740867945-66741f18-b870-43c4-bdb1-86a5f03b6a3a.png)
+## Architecture Before Hardening / Security Controls
+![Architecture Diagram](https://www.image2url.com/r2/default/images/1783411821504-1d4150e5-20ba-446b-99bd-ae85667a3aee.png)
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
+
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
